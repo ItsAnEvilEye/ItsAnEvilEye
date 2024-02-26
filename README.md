@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ItsAnEvilEye
-- 👀 I’m interested in hacking
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java
+- 👀 I’m interested in cyber security 
+- 🌱 I’m currently learning bug bounty
+- 💞️ I’m looking to collaborate on bug hunting 
 - 📫 How to reach me ...
 
 <!---
